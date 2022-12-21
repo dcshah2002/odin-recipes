@@ -3,3 +3,16 @@
 * {
     font-family: 'Poppins', sans-serif;
 }
+
+.home1 {
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    padding-left: 5px;
+    cursor: pointer;
+}
+
+.home-link {
+    text-decoration: none;
+    color: white;
+}
